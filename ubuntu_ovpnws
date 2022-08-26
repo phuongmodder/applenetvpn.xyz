@@ -1,11 +1,3 @@
-#!/bin/bash
-#Script Variables
-HOST='174.138.190.54';
-USER='ksatunne_applenetvpn';
-PASS='app@@2etvpn';
-DBNAME='ksatunne_applenetvpn';
-PORT_TCP='1194';
-PORT_UDP='53';
 timedatectl set-timezone Asia/Riyadh
 install_require () {
 clear
