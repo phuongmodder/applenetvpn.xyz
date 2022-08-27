@@ -2,7 +2,7 @@
 #Script Variables
 HOST='174.138.190.54';
 USER='ksatunne_applenetvpn';
-PASS='app@@2etvpn';
+PASS='plenetv23@GI';
 DBNAME='ksatunne_applenetvpn';
 PORT_TCP='1194';
 PORT_UDP='53';
